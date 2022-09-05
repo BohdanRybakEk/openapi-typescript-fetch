@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/ajaishankar/openapi-typescript-fetch#readme",
   "devDependencies": {
-    "msw": "^0.35.0",
+    "msw": "^0.47.0",
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "@typescript-eslint/parser": "^4.31.0",
     "eslint": "^7.32.0",
